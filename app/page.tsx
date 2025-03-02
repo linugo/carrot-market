@@ -15,7 +15,7 @@ export default function Page() {
                 </Link>   
                 <div className="flex gap-2">
                     <span>이미 계정이 있나요?</span>
-                    <Link className="hover:underline underline-offset-2" href="/lgin">로그인</Link>
+                    <Link className="hover:underline underline-offset-2" href="/login">로그인</Link>
                 </div>
             </div>
         </div>
